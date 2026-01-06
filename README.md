@@ -53,7 +53,7 @@ This balances fraud detection performance with operational constraints.
 
 ## Tech Stack
 - Python  
-- PyTorch (CNN) 
+- PyTorch
 - NumPy  
 - Pandas  
 - Matplotlib  
